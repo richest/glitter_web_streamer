@@ -1,0 +1,36 @@
+<svg id="Google_Play_Icon" data-name="Google Play Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.062" height="40.078" viewBox="0 0 37.062 40.078">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.192" y1="-0.352" x2="0.693" y2="0.935" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#19a3b4"/>
+      <stop offset="0.348" stop-color="#5bc3af"/>
+      <stop offset="0.922" stop-color="#c8f7a6"/>
+      <stop offset="1" stop-color="#d7fea5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.282" y1="-0.148" x2="0.482" y2="0.829" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0e4da0"/>
+      <stop offset="1" stop-color="#6bfed4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="1.322" y1="0.165" x2="0.06" y2="1.263" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fc472e"/>
+      <stop offset="0.003" stop-color="#fc472f"/>
+      <stop offset="1" stop-color="#893cd8"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Fill_1" data-name="Fill 1" d="M26.221,13.766,1.845.381A2.389,2.389,0,0,0,0,.077L19.966,20.014l6.255-6.248" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-5" x1="-0.147" y1="-1.143" x2="0.748" y2="1.142" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fc227c"/>
+      <stop offset="1" stop-color="#feeb7b"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Fill_3" data-name="Fill 3" d="M1.221,0A2,2,0,0,0,0,2.115L0,37.807a2.017,2.017,0,0,0,1.185,2.106l20-19.973L1.221,0" fill="url(#linear-gradient-2)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Fill_4" data-name="Fill 4" d="M0,19.973a2.358,2.358,0,0,0,1.878-.294l24.4-13.4L20,0,0,19.973" fill="url(#linear-gradient-3)"/>
+    </clipPath>
+  </defs>
+  <path id="Fill_1-2" data-name="Fill 1" d="M26.221,13.766,1.845.381A2.389,2.389,0,0,0,0,.077L19.966,20.014l6.255-6.248" transform="translate(1.222 0)" fill="url(#linear-gradient)"/>
+  <path id="Fill_2" data-name="Fill 2" d="M6.287,12.526l8.321-4.569c1.687-.93,1.687-2.443,0-3.37L6.256,0,0,6.248l6.287,6.278" transform="translate(21.188 13.766)" fill="url(#linear-gradient-5)"/>
+  <path id="Fill_3-2" data-name="Fill 3" d="M1.221,0A2,2,0,0,0,0,2.115L0,37.807a2.017,2.017,0,0,0,1.185,2.106l20-19.973L1.221,0" transform="translate(0 0.077)" fill="url(#linear-gradient-2)"/>
+  <path id="Fill_4-2" data-name="Fill 4" d="M0,19.973a2.358,2.358,0,0,0,1.878-.294l24.4-13.4L20,0,0,19.973" transform="translate(1.189 20.018)" fill="url(#linear-gradient-3)"/>
+</svg>
